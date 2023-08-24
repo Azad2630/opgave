@@ -21,13 +21,11 @@ class Program
 
         Console.WriteLine();
 
-        Animal animal = new Animal();
-        animal.MakeSound();
+        
+        Animal cat = new Cat();
+        Animal dog = new Dog();
 
-        Cat cat = new Cat();
         cat.MakeSound();
-
-        Dog dog = new Dog();
         dog.MakeSound();
     }
 }
