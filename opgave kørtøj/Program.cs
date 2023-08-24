@@ -3,7 +3,7 @@ using opgave_kørtøj.Personer;
 using opgave_kørtøj.kørtøjer;
 using System;
 
-// This is the master branch
+// This is the opgave branch
 class Program
 {
     static void Main(string[] args)
